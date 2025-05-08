@@ -44,7 +44,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
   // For GitHub Pages, use "./" (relative paths)
-  base: '/hgfdhfh/',
+  base: '/GUDAUTA/',
   // Добавляем оптимизации для более быстрой разработки
   optimizeDeps: {
     include: ['react', 'react-dom', 'react-router-dom'],
